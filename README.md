@@ -6,8 +6,8 @@
 - Algumas modificações estão sendo feitas no meu repositorio 
  <div>
   <a href="https://github.com/alinechaves2911">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinechaves2911&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinechaves2911&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=alinechaves2911&show_icons=true&theme=omni"/><br/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinechaves2911&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
